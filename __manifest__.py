@@ -14,5 +14,5 @@
     'images': [''],
     'license': '',
     'installable': True,
-    'auto_install': True,
+   
 }
