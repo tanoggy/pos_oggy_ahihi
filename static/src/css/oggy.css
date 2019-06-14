@@ -9,6 +9,9 @@
     margin-left: 440px !important;
  
 }
+button.button.pay {
+    background: green;
+}
 
 @media screen and (max-width: 7200px) {
   .payment-screen .payment-buttons .button:last-child {
