@@ -9,7 +9,8 @@
     margin-left: 440px !important;
  
 }
-button.button.pay {
+
+button.input-button.number-char {
     background: green;
 }
 
@@ -19,8 +20,6 @@ button.button.pay {
     float: inherit;
     width: 230px;
 }
-button.button.pay {
-    background: blue;
-}
+
 }
 
