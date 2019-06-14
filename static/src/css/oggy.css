@@ -16,5 +16,8 @@
     float: inherit;
     width: 230px;
 }
+button.button.pay {
+    background: blue;
+}
 }
 
