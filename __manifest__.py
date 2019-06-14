@@ -10,8 +10,8 @@
     'version': '0.1',
     'depends': ['base', 'point_of_sale'],
     'data': ['views/pos-oggy.xml'],
-    'qweb': [''],
-    'images': [''],
+    'qweb': [],
+    'images': [],
     'license': '',
     'installable': True,
    
