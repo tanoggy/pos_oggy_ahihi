@@ -9,3 +9,12 @@
     margin-left: 440px !important;
  
 }
+
+@media screen and (max-width: 7200px) {
+  .payment-screen .payment-buttons .button:last-child {
+    margin-top: 300px;
+    float: inherit;
+    width: 230px;
+}
+}
+
