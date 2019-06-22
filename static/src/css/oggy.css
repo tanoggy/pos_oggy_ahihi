@@ -7,10 +7,18 @@
 .screen .screen-content {
     background: #f0eeee;
     margin-left: 440px !important;
+    max-width: 100%;
  
 }
 
 
+@media print
+{    
+    .product-screen.screen.oe_hidden
+    {
+        display: none !important;
+    }
+}
 
 
 
