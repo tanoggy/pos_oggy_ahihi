@@ -18,7 +18,20 @@
     {
         display: none !important;
     }
+    
+    .screen .screen-content {
+        
+    background: #f0eeee;
+    margin-left: 0px !important;
+    max-width: 100%;
+ 
 }
+
+    
+    
+    
+}
+
 
 
 
